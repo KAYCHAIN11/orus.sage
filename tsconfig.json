@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2020", "ES2021", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitReturns": false,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "types": ["node"],
+    "resolveJsonModule": true,
+    "paths": {
+      "@orus/types": ["packages/shared-types/src"],
+      "@orus/ui": ["packages/ui-components/src"],
+      "@orus/db": ["packages/database/src"],
+      "@orus/logger": ["libs/shared/src/logger"],
+      "@orus/utils": ["packages/utils/src"],
+      "@orus/trinity": ["engines/trinity-core/src"]
+    }
+  },
+  "include": ["apps/**/*", "packages/**/*", "engines/**/*", "libs/**/*"],
+  "exclude": ["node_modules", "dist", "**/*.spec.ts", "**/*.test.ts"]
+}

@@ -1,0 +1,260 @@
+# ------------------------------
+
+# Node modules
+
+# ------------------------------
+
+node_modules/
+jspm_packages/
+
+# ------------------------------
+
+# Logs
+
+# ------------------------------
+
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ------------------------------
+
+# Runtime data
+
+# ------------------------------
+
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# ------------------------------
+
+# Dependency directories
+
+# ------------------------------
+
+node_modules/
+bower_components/
+
+# ------------------------------
+
+# Build outputs
+
+# ------------------------------
+
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+.vercel/
+
+# ------------------------------
+
+# Cache directories
+
+# ------------------------------
+
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.turbo/
+
+# ------------------------------
+
+# TypeScript
+
+# ------------------------------
+
+*.tsbuildinfo
+
+# ------------------------------
+
+# Environment variables
+
+# ------------------------------
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ------------------------------
+
+# Editor directories and files
+
+# ------------------------------
+
+.vscode/
+.idea/
+.history/
+*.sublime-workspace
+*.sublime-project
+
+# ------------------------------
+
+# OS generated files
+
+# ------------------------------
+
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+
+# Temporary files
+
+# ------------------------------
+
+tmp/
+temp/
+*.tmp
+
+# ------------------------------
+
+# Coverage
+
+# ------------------------------
+
+coverage/
+.nyc_output/
+
+# ------------------------------
+
+# Testing
+
+# ------------------------------
+
+jest-cache/
+jest.config.local.js
+
+# ------------------------------
+
+# Docker
+
+# ------------------------------
+
+.docker/
+docker-compose.override.yml
+
+# ------------------------------
+
+# Local databases
+
+# ------------------------------
+
+*.sqlite
+*.sqlite3
+*.db
+
+# ------------------------------
+
+# Package managers
+
+# ------------------------------
+
+.pnpm-store/
+.pnp/
+.pnp.js
+
+# ------------------------------
+
+# Misc
+
+# ------------------------------
+
+*.tgz
+*.swp
+*.swo
+
+# ------------------------------
+
+# MacOS
+
+# ------------------------------
+
+.AppleDouble
+.LSOverride
+
+# ------------------------------
+
+# Windows
+
+# ------------------------------
+
+ehthumbs.db
+Desktop.ini
+
+# ------------------------------
+
+# History / AI / Dev tools
+
+# ------------------------------
+
+.history/
+.cursor/
+.cursorignore
+.codeium/
+
+# ------------------------------
+
+# Terraform
+
+# ------------------------------
+
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# ------------------------------
+
+# Serverless
+
+# ------------------------------
+
+.serverless/
+
+# ------------------------------
+
+# Python artifacts (if mixed repo)
+
+# ------------------------------
+
+**pycache**/
+*.py[cod]
+
+# ------------------------------
+
+# Binary / compiled
+
+# ------------------------------
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ------------------------------
+
+# IDE
+
+# ------------------------------
+
+*.iml
+
+# ------------------------------
+
+# Misc developer junk
+
+# ------------------------------
+
+*.orig
+*.rej

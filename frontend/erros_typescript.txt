@@ -1,0 +1,118 @@
+src/components/auth/AuthLayout.tsx(4,37): error TS2307: Cannot find module '@/lib/theme-orus' or its corresponding type declarations.
+src/components/auth/ForgotPasswordForm.tsx(5,24): error TS2307: Cannot find module '@/components/ui/Button' or its corresponding type declarations.
+src/components/auth/ForgotPasswordForm.tsx(6,23): error TS2307: Cannot find module '@/components/ui/Input' or its corresponding type declarations.
+src/components/auth/ForgotPasswordForm.tsx(7,37): error TS2307: Cannot find module '@/lib/theme-orus' or its corresponding type declarations.
+src/components/auth/LoginForm.tsx(5,29): error TS2307: Cannot find module '@/context/LanguageContext' or its corresponding type declarations.
+src/components/auth/LoginForm.tsx(6,24): error TS2307: Cannot find module '@/components/ui/Button' or its corresponding type declarations.
+src/components/auth/LoginForm.tsx(7,23): error TS2307: Cannot find module '@/components/ui/Input' or its corresponding type declarations.
+src/components/auth/LoginForm.tsx(8,37): error TS2307: Cannot find module '@/lib/theme-orus' or its corresponding type declarations.
+src/components/auth/RegisterForm.tsx(5,29): error TS2307: Cannot find module '@/context/LanguageContext' or its corresponding type declarations.
+src/components/auth/RegisterForm.tsx(6,24): error TS2307: Cannot find module '@/components/ui/Button' or its corresponding type declarations.
+src/components/auth/RegisterForm.tsx(7,23): error TS2307: Cannot find module '@/components/ui/Input' or its corresponding type declarations.
+src/components/auth/RegisterForm.tsx(8,37): error TS2307: Cannot find module '@/lib/theme-orus' or its corresponding type declarations.
+src/components/auth/ResetPasswordForm.tsx(4,24): error TS2307: Cannot find module '@/components/ui/Button' or its corresponding type declarations.
+src/components/auth/ResetPasswordForm.tsx(5,23): error TS2307: Cannot find module '@/components/ui/Input' or its corresponding type declarations.
+src/components/auth/ResetPasswordForm.tsx(6,37): error TS2307: Cannot find module '@/lib/theme-orus' or its corresponding type declarations.
+src/components/chat/MessageBubble.tsx(5,10): error TS2614: Module '"./ChatContainer"' has no exported member 'Message'. Did you mean to use 'import Message from "./ChatContainer"' instead?
+src/components/chat/MessageList.tsx(7,10): error TS2614: Module '"./ChatContainer"' has no exported member 'Message'. Did you mean to use 'import Message from "./ChatContainer"' instead?
+src/components/layout/Footer.tsx(15,9): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(16,9): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BorderTopColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(24,24): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(28,45): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(34,57): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(37,56): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(52,57): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(55,56): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(73,13): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BorderTopColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Footer.tsx(74,13): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(26,9): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(27,9): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BorderBottomColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(36,24): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(43,26): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(47,47): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(60,17): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BorderColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(61,17): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(73,26): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(81,21): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(82,21): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BorderColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(94,25): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(112,30): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(127,19): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Header.tsx(128,19): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/MainLayout.tsx(35,16): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/MobileNav.tsx(27,18): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/MobileNav.tsx(57,22): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/MobileNav.tsx(67,21): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Sidebar.tsx(29,9): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Sidebar.tsx(30,9): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BorderRightColor'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Sidebar.tsx(38,20): error TS2322: Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 0: string; 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Sidebar.tsx(50,15): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; } | "transparent"' is not assignable to type 'BackgroundColor'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'BackgroundColor'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+      Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/layout/Sidebar.tsx(51,15): error TS2322: Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'Color'.
+  Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string & {}'.
+    Type '{ 50: string; 100: string; 200: string; 300: string; 400: string; 500: string; 600: string; 700: string; 800: string; 900: string; }' is not assignable to type 'string'.
+src/components/ui/Button.tsx(2,28): error TS2307: Cannot find module '@/lib/colors' or its corresponding type declarations.
